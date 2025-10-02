@@ -1,0 +1,16 @@
+C:\Users\ECE\source\repos\BUTONHAREKETİ\BUTONHAREKETİ\bin\Debug\net8.0-windows\BUTONHAREKETİ.exe
+C:\Users\ECE\source\repos\BUTONHAREKETİ\BUTONHAREKETİ\bin\Debug\net8.0-windows\BUTONHAREKETİ.deps.json
+C:\Users\ECE\source\repos\BUTONHAREKETİ\BUTONHAREKETİ\bin\Debug\net8.0-windows\BUTONHAREKETİ.runtimeconfig.json
+C:\Users\ECE\source\repos\BUTONHAREKETİ\BUTONHAREKETİ\bin\Debug\net8.0-windows\BUTONHAREKETİ.dll
+C:\Users\ECE\source\repos\BUTONHAREKETİ\BUTONHAREKETİ\bin\Debug\net8.0-windows\BUTONHAREKETİ.pdb
+C:\Users\ECE\source\repos\BUTONHAREKETİ\BUTONHAREKETİ\obj\Debug\net8.0-windows\BUTONHAREKETİ.Form1.resources
+C:\Users\ECE\source\repos\BUTONHAREKETİ\BUTONHAREKETİ\obj\Debug\net8.0-windows\BUTONHAREKETİ.csproj.GenerateResource.cache
+C:\Users\ECE\source\repos\BUTONHAREKETİ\BUTONHAREKETİ\obj\Debug\net8.0-windows\BUTONHAREKETİ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECE\source\repos\BUTONHAREKETİ\BUTONHAREKETİ\obj\Debug\net8.0-windows\BUTONHAREKETİ.AssemblyInfoInputs.cache
+C:\Users\ECE\source\repos\BUTONHAREKETİ\BUTONHAREKETİ\obj\Debug\net8.0-windows\BUTONHAREKETİ.AssemblyInfo.cs
+C:\Users\ECE\source\repos\BUTONHAREKETİ\BUTONHAREKETİ\obj\Debug\net8.0-windows\BUTONHAREKETİ.csproj.CoreCompileInputs.cache
+C:\Users\ECE\source\repos\BUTONHAREKETİ\BUTONHAREKETİ\obj\Debug\net8.0-windows\BUTONHAREKETİ.dll
+C:\Users\ECE\source\repos\BUTONHAREKETİ\BUTONHAREKETİ\obj\Debug\net8.0-windows\refint\BUTONHAREKETİ.dll
+C:\Users\ECE\source\repos\BUTONHAREKETİ\BUTONHAREKETİ\obj\Debug\net8.0-windows\BUTONHAREKETİ.pdb
+C:\Users\ECE\source\repos\BUTONHAREKETİ\BUTONHAREKETİ\obj\Debug\net8.0-windows\BUTONHAREKETİ.genruntimeconfig.cache
+C:\Users\ECE\source\repos\BUTONHAREKETİ\BUTONHAREKETİ\obj\Debug\net8.0-windows\ref\BUTONHAREKETİ.dll
